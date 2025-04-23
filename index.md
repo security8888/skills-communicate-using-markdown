@@ -6,3 +6,7 @@ I'm excited to be learning more about Github.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
